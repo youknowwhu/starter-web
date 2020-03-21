@@ -10,4 +10,10 @@ Sample website with plenty of files for demos
 
 ## GIT and GITHub Training
 
-This si GIT project used as learning GIT, a sample project
+This is GIT project used as learning GIT, a sample project
+
+
+##GIT Comparisons
+Adding GIT comparing WD and SA
+
+Comparing WD with Repo
