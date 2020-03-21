@@ -17,3 +17,7 @@ This is GIT project used as learning GIT, a sample project
 Adding GIT comparing WD and SA
 
 Comparing WD with Repo
+
+## GIT Merge
+
+Testing merges and auto merge
