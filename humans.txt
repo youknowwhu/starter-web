@@ -5,6 +5,7 @@
 
     <givenname> -- <surname> -- <role> -- <twitter>
     John Wick    Assassin @johnwick
+    Nadia Waller SuperAssassin @nwaller
 # THANKS
 
     <name>
@@ -13,3 +14,4 @@
 
     HTML5, CSS5, Angular
     jQuery, Modernizr, AJAX
+    Machine Learning, Kinesis
