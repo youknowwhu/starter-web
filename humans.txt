@@ -5,6 +5,8 @@
 
     <givenname> -- <surname> -- <role> -- <twitter>
     John Wick    Assassin @johnwick
+    Nick Dimmer	 ContractKillery @nickdimmer
+
 # THANKS
 
     <name>
@@ -13,3 +15,4 @@
 
     HTML5, CSS5, Angular
     jQuery, Modernizr, AJAX
+    Docker, Java
